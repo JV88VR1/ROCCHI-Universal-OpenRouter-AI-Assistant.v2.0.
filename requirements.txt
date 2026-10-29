@@ -1,0 +1,12 @@
+pvporcupine
+pyaudio
+vosk
+sounddevice
+pyttsx3
+speechrecognition
+requests
+pyautogui
+pillow
+imapclient
+smtplib
+python-dotenv
